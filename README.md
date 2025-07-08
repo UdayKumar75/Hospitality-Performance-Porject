@@ -10,6 +10,23 @@ The final Power BI dashboard is structured into four pages:
 3. **Booking Analysis** – Trends by platform, city, room category, and cancellations.
 4. **Rating Analysis** – Customer satisfaction metrics by hotel, city, and room class.
 
+## 📊 Dashboard Preview
+
+Here’s a quick look at the Power BI dashboard used in this project:
+
+**Page 1**
+![Dashboard Page 1](Dashboard/Page-1.png)
+
+**Page 2**
+![Dashboard Page 2](Dashboard/Page-2.png)
+
+**Page 3**
+![Dashboard Page 3](Dashboard/Page-3.png)
+
+**Page 4**
+![Dashboard Page 4](Dashboard/Page-4.png)
+
+
 ## 🧩 Datasets Used
 
 The project uses five interrelated CSV files:
